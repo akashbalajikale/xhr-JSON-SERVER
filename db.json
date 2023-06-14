@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "title": "angular",
+      "content": "angular is javascript framework",
+      "id": 9
+    },
+    {
+      "title": "ccss",
+      "content": "sass",
+      "id": 10
+    },
+    {
+      "title": "hello there  i amkale akash",
+      "content": "i am a front end angular developer",
+      "id": 11
+    },
+    {
+      "title": "html ",
+      "content": "html is hyper tetxt mrkup language",
+      "id": 12
+    },
+    {
+      "title": "css ",
+      "content": "it is cascading style sheet",
+      "id": 13
+    },
+    {
+      "title": "javascript ",
+      "content": "javascript is oop language lightwiight, ",
+      "id": 14
+    },
+    {
+      "title": "as",
+      "content": "a",
+      "id": 15
+    },
+    {
+      "title": "tuc",
+      "content": "the ultimate coder ",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
